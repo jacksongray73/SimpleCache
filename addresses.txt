@@ -1,0 +1,7 @@
+This file contains a list of pre-generated 32-bit addresses. Feel free to randomly generate new ones via the program or insert your own for testing!
+You can either have them spaced or on separate lines, and the program will automatically correct addresses with too little or many digits.
+000000
+100000000
+000000
+011000000
+100000000
