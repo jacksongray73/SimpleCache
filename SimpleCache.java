@@ -17,6 +17,7 @@ public class SimpleCache{
     public static void main(String[] args){
         //The main method reads the file addresses.txt to load the addresses,
         //then asks for block amount, associativity option, and replacement option.
+        Scanner scan = new Scanner(System.in);
 
         //File generation (optional)        
         System.out.println("Would you like to generate a new set of addresses? Y/N");
